@@ -2,7 +2,8 @@
 
 Welcome to the Book Search Engine project! This application allows users to search for books and save them for later reading. It leverages the Google Books API to provide a vast collection of book information.
 
-![Screenshot](screenshot.png) <!-- Include a screenshot of your application -->
+![image](https://github.com/Josiahr4321/Book-Search-Engine-SEO/assets/125624166/3e40b8e0-32d6-4bc2-9bd0-018b36f0883b)
+
 
 ## Table of Contents
 - [Features](#features)
@@ -64,3 +65,5 @@ You can explore the [Google Books API documentation](https://developers.google.c
 Contributions to this project are welcome! If you have suggestions, feature requests, or bug reports, please open an issue on the GitHub repository.
 
 ## Links
+
+https://github.com/Josiahr4321/Book-Search-Engine-SEO
