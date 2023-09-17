@@ -1,1 +1,18 @@
-node_modules
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# MongoDB
+/data/
+/db/
+*.db
+
+# Environment variables
+.env
+
